@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Umbrella Reminder</string>
+    <string name="edit_message">Enter a default value</string>
+    <string name="button_send">Send</string>
 </resources>
